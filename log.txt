@@ -1,0 +1,32 @@
+$ git log --graph
+*   commit 5366b652395c4cf1fbdd847a34c9d6cbf2c0d5d5 (HEAD -> master)
+|\  Merge: a2f18a6 4f40859
+| | Author: Nicklas Johansson <lurvas4ever@hotmail.com>
+| | Date:   Mon Nov 4 14:07:02 2019 +0100
+| |
+| |     Merge branch 'lab1'
+| |
+| * commit 4f408597e16a82d95821a2942df6ede6ae313ada (origin/lab1, lab1)
+| | Author: Nicklas Johansson <lurvas4ever@hotmail.com>
+| | Date:   Mon Nov 4 14:05:21 2019 +0100
+| |
+| |     test 2
+| |
+* | commit a2f18a6228351e836146c2f15098d589a818bf3b (origin/master)
+|/  Author: Nicklas Johansson <lurvas4ever@hotmail.com>
+|   Date:   Mon Nov 4 14:06:43 2019 +0100
+|
+|       test 2 from master
+|
+* commit cab9114ed45e2c7de4e92489095f0c57cca6b606
+| Author: Nicklas Johansson <lurvas4ever@hotmail.com>
+| Date:   Mon Nov 4 13:56:44 2019 +0100
+|
+|     First branch commit
+|
+* commit d0752895282ec47edd7105f4f6df27317270d95e
+  Author: Nicklas Johansson <lurvas4ever@hotmail.com>
+  Date:   Mon Nov 4 13:54:04 2019 +0100
+
+      first commit
+
